@@ -78,7 +78,7 @@ class _MyStatefulState extends State<MyStateful> {
             const SizedBox(
               height: 16,
             ),
-            const Text("What is your Gender?"),
+            const Text("GI DO Di?"),
             Row(
               crossAxisAlignment: CrossAxisAlignment.center,
               children: [
